@@ -1,14 +1,13 @@
-p {
-	color: red;}
+body {
+font-family: 'Helvetica', 'Arial', comic-sans;
+margin: 0 auto;
+max-width: 50em;
+line-height: 1.5;
+padding: 4em 1em;
 
+}
 
-.otsikko {
-color: blue; }
-
-.punaiset {
-color: red;}
-
-.pinkit {
-color: hotpink;}
-
-
+h2 {
+margin-top: 1em;
+padding-top: 1em;
+}
