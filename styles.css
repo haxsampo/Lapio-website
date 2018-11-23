@@ -1,14 +1,18 @@
 .container1 {
 width: 200px;
 height: 100px;
+border-style: solid;
+border-color: green;
 background-color: red; }
 
 .container2 {
 width: 200px;
 height: 100px;
 left: 250px;
-bottom: 115px;
+bottom: 108px;
 position: relative;
+border-style: solid;
+border-color: yellow;
 background-color: green; }
 
 .container3 {
@@ -16,5 +20,7 @@ width: 200px;
 height: 100px;
 position: relative;
 left: 500px;
-bottom: 230px;
+bottom: 214px;
+border-style: solid;
+border-color: red;
 background-color: yellow; }
